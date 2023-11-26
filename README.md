@@ -4,9 +4,9 @@ Flutter Demo
 Hi as per the order I mention below the screen are presented in the app
 
 
-1-welcome Screen
-2-login Screen
-3-sign UP Screen
+1-welcome Screen,
+2-login Screen,
+3-sign UP Screen,
 4-Dashboard Screen(page1,page2,page3)
 
 
