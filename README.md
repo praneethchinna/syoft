@@ -15,6 +15,6 @@ I have used http request like get and post I have tested that in my local machin
 
 i had one more thougt of using shared preference which would be much better for login but as per you requirement i think it not needed.
 
-you can look into the code public accessed.
+you can look into the code it is public accessed.
 
 
