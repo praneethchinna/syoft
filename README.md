@@ -13,8 +13,12 @@ Hi as per the order I mention below the screen are presented in the app
 
 I have used http request like get and post I have tested that in my local machine with node server
 
-i had one more thougt of using shared preference which would be much better for login but as per you requirement i think it not needed.
+i had one more thougth of using shared preference which would be much better for login but as per you requirement i think it not needed.
 
 you can look into the code it is public accessed.
+
+If you have any suggestions or feedback please reply to me
+
+😊
 
 
